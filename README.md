@@ -1,2 +1,2 @@
-# ERC20_part2
-Code for the Create your first ERC20 token (part 2)
+# ERC20_project
+Code for the ERC20_project  tutorial 
